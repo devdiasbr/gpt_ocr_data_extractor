@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Output directories
+output/
+images/
+
+# OS specific
+.DS_Store
+Thumbs.db
